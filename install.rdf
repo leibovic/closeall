@@ -4,7 +4,7 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>closeall@margaretleibovic.com</em:id>
         <em:type>2</em:type>
-        <em:name>Close All Tabs</em:name>
+        <em:name>Close All Tabs (mobile)</em:name>
         <em:version>1.0</em:version>
         <em:bootstrap>true</em:bootstrap>
         <em:description>Adds a menu item to close all tabs.</em:description>
